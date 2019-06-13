@@ -1,2 +1,2 @@
-# sql
-interview questions
+# SQL
+Interview questions
