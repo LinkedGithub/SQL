@@ -25,7 +25,7 @@ group by date(t1.ordertime) order by date(t1.ordertime);
 Given the below subset of a travel app’s schema, write executable SQL queries to answer the two questions below. 
 Please answer in a single query and assume read-only access to the database (i.e. do not use CREATE TABLE).
 Assume a PostgreSQL database, server timezone is UTC
-![]()
+![](https://github.com/LinkedGithub/sql/blob/master/images/f2.JPG)
 1.	Between Oct 1, 2013 at 10am PDT and Oct 22, 2013 at 5pm PDT, what percentage of requests made by 
 unbanned clients each day were canceled in each city?
 2.	For city ids 1, 6, and 12, list the top three drivers by number of completed trips for each week 
@@ -66,7 +66,7 @@ temp.orders > info.orders)
 ```
 
 ## Question:
-![]()
+![](https://github.com/LinkedGithub/sql/blob/master/images/f3.png)
 MySQL查询各个用户最长的连续登陆天数
 
 ## Answer:
