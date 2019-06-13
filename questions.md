@@ -3,6 +3,7 @@
 
 ## Answer:
 ``` sql
+#For question 5
 create table orders
 (
   num int not null primary key auto_increment,
